@@ -1,0 +1,30 @@
+{
+  "name": "deep-omit-by",
+  "version": "1.0.0",
+  "description": "Recusrive Omit By",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyNova/deep-omit-by.git"
+  },
+  "keywords": [
+    "Deep",
+    "Recursive",
+    "Omit",
+    "By"
+  ],
+  "author": "Britton Mathews <britton.mathews@backit.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinyNova/deep-omit-by/issues"
+  },
+  "homepage": "https://github.com/TinyNova/deep-omit-by#readme",
+  "dependencies": {
+    "del-object-path": "^0.1.0",
+    "object-merge": "^2.5.1",
+    "recursive-iterator": "^3.3.0"
+  }
+}
