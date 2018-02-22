@@ -5,7 +5,7 @@ Deletes keys from the object that match a condition without side effects.
 ## Installation
 
 ```
-npm instal --save-dev deep-omit-by
+npm install --save-dev deep-omit-by
 ```
 
 ## Usage
@@ -44,4 +44,4 @@ recursiveOmitBy(
 
 ISC
 
-Credit to alexgorbatchev
+Credit to alexgorbatchev. This repo is the just the compiled version of his code.
